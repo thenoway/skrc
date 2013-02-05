@@ -2,3 +2,28 @@
 * Author: Valentin Squirelo
 * Project: Salif Keita Remix Contest
 */
+
+
+body {
+	background: url("../img/bg.png") repeat;
+	color: #F0FF00;
+	font-family: Helvetica, sans-serif;
+}
+
+h1 {
+
+}
+
+/* custom class 
+=================================================================== */
+.center-align {
+    text-align: center;
+}
+
+.right-align{
+  text-align: right;
+}
+
+.left-align{
+  text-align: left;
+}
